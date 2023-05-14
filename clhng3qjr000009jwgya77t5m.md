@@ -1,10 +1,12 @@
 ---
 title: "Android Passkey: Enhancing Security and Ease for Signing In"
+seoTitle: "Android Passkey: Secure, Easy Sign-In Solution"
 seoDescription: "Android Passkey: Public-key cryptography & biometric authentication for secure, convenient website & app sign-ins"
 datePublished: Sun May 14 2023 13:21:56 GMT+0000 (Coordinated Universal Time)
 cuid: clhng3qjr000009jwgya77t5m
 slug: android-passkey-enhancing-security-and-ease-for-signing-in
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683990233995/b95e58a1-d120-4ed0-a91d-ffe3e8be75ce.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684071436136/482260a4-29ae-44bf-a86f-592e20cf441a.webp
 tags: security, android, google, passkeys
 
 ---
