@@ -505,7 +505,11 @@ Having a solid understanding of these data structures enables you to design and 
 
 It allows you to choose the most suitable data structure based on the requirements of your application, ensuring better user experiences and smoother functionality.
 
-Remember, selecting the appropriate data structure requires careful consideration of factors such as data access patterns, search requirements, insertion and deletion operations, and memory usage. Additionally, continuously improving your knowledge of data structures and algorithms will empower you to tackle more complex problems and make your Android app development journey even more successful.
+---
+
+Remember, selecting the appropriate data structure requires careful consideration of factors such as data access patterns, search requirements, insertion and deletion operations, and memory usage.
+
+Additionally, continuously improving your knowledge of data structures and algorithms will empower you to tackle more complex problems and make your Android app development journey even more successful.
 
 So, take the time to master these foundational data structures, experiment with them, and explore their capabilities within the context of Android app development. By doing so, you'll be equipped with the tools to create efficient, scalable, and robust applications that deliver exceptional user experiences.
 
