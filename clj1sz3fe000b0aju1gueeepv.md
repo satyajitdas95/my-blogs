@@ -1,5 +1,6 @@
 ---
 title: "Essential Data Structures for Your Upcoming Android Interview - Part 2"
+seoTitle: "Crucial Android Interview Data Structures: Part 2"
 seoDescription: "Master arrays, lists, hashmaps, sets, queues, stacks, trees, and graphs for efficient Android app development, optimizing code and performance"
 datePublished: Sun Jun 18 2023 19:10:43 GMT+0000 (Coordinated Universal Time)
 cuid: clj1sz3fe000b0aju1gueeepv
